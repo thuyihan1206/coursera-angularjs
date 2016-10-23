@@ -1,4 +1,4 @@
-# coursera-html
+# coursera-angularjs
 Host solutions to Coursera course: Single Page Web Applications with AngularJS
 
 * Solution to module 1 is http://thuyihan1206.github.io/coursera-angularjs/mod1_solution
