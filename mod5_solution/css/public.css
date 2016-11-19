@@ -146,7 +146,7 @@ h3.menu-item-title {
     margin-top: 20px;
 }
 
-.reg-link a {
+.reg-link a, .info-link a {
     color: orange;
     text-decoration: none;
 }
